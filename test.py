@@ -4,5 +4,5 @@ def test_01():
 def test_02():
     assert 20 == 20
 
-def test_03():
-    assert 30 == 30
+def new_test_03():
+    assert 15==15
